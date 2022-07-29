@@ -1,0 +1,15 @@
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\bin\Debug\net6.0\MadLib.exe
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\bin\Debug\net6.0\MadLib.deps.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\bin\Debug\net6.0\MadLib.runtimeconfig.json
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\bin\Debug\net6.0\MadLib.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\bin\Debug\net6.0\MadLib.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\obj\Debug\net6.0\MadLib.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\obj\Debug\net6.0\MadLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\obj\Debug\net6.0\MadLib.AssemblyInfoInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\obj\Debug\net6.0\MadLib.AssemblyInfo.cs
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\obj\Debug\net6.0\MadLib.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\obj\Debug\net6.0\MadLib.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\obj\Debug\net6.0\refint\MadLib.dll
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\obj\Debug\net6.0\MadLib.pdb
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\obj\Debug\net6.0\MadLib.genruntimeconfig.cache
+E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Code\MadLib\MadLib\obj\Debug\net6.0\ref\MadLib.dll
